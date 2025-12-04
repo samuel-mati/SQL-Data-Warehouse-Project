@@ -1,10 +1,11 @@
 # SQL Data Warehouse Project
 
 ## Project Requirements
----
+
 #### Building the Data Warehouse
 
 **Objectives**
+
 Develop a modern data warehouse using SQL Server to consolidate sales data enabling analytical reporting and informed decision making
 
 **Specifications**
@@ -16,8 +17,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data enabl
 
 ---
 ## BI: Analytics & Reporting (Data Analysis)
-**Objective**
 
+**Objective**
 Develop SQL-based analytics to deliver detailed insights into:
+
 - 
 
